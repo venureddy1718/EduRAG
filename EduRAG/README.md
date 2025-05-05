@@ -24,7 +24,7 @@ The EduRAG system consists of five main components:
 4. **Retrieval**: Identifies the most relevant text chunks based on user queries
 5. **Response Generation**: Leverages LLMs to produce coherent and contextually accurate answers
 
-![EduRAG model comparison](https://github.com/user-attachments/assets/179ac0ee-8982-46be-b39d-25486a905ba7)
+![architecture](https://github.com/user-attachments/assets/768ab2ee-9fe0-4dde-9e95-4448f6571e6c)
 
 ## Model Comparison
 We evaluated three state-of-the-art language models:
@@ -42,7 +42,8 @@ Our comprehensive evaluation measured:
 - Reasoning quality
 - Context usage
 
-![performance comparision Bar chart](https://github.com/user-attachments/assets/2916a304-995e-4f88-902a-e5183fd69517)
+![EduRAG real model comparison](https://github.com/user-attachments/assets/caae4556-1a9a-4248-bbc2-7bdb830b4b42)
+
 
 ## Installation
 
